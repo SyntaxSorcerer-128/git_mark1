@@ -1,3 +1,0 @@
-Hello, checking modification process in git.
-
-check over
